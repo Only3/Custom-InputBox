@@ -1,3 +1,3 @@
 # Custom-InputBox
-InputBoc Control
+InputBox Control
 
